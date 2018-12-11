@@ -1,8 +1,8 @@
 language: c
 
 compiler:
-  - gcc #8.1.0
-  - clang #7.0.0
+  - gcc #6
+  - clang #3.9.0
   
 build: 
 
